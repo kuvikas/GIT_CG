@@ -1,2 +1,4 @@
 I am in the squash branch
 this commit is from the bash
+this is the new line
+I am from bash
